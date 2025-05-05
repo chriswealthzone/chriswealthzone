@@ -33,7 +33,7 @@ Now, I'm transitioning into tech through the **ALX Software Engineering Program 
 
 ## 📫 Let’s Connect!
 
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 💼 LinkedIn: https://www.linkedin.com/in/ebenezerchristian1/
 - 📨 Email: chriswealthzone@yahoo.com
 - 🔗 Portfolio: [Coming soon!]
 - 🖥️ GitHub Projects: [More coming!]
